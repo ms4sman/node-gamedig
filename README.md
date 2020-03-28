@@ -100,6 +100,7 @@ Games List
 | `armacwa`  | ARMA: Cold War Assault (2011)
 | `armar`    | ARMA: Resistance (2011)
 | `armagetron` | Armagetron Advanced (2001)
+| `assettocorsa` | Assetto Corsa (2014)
 | `atlas`    | Atlas (2018)
 | `baldursgate` | Baldur's Gate (1998)
 | `bat1944`  | Battalion 1944 (2018)
@@ -130,6 +131,7 @@ Games List
 | `cacrenegade` | Command and Conquer: Renegade (2002)
 | `commandos3` | Commandos 3: Destination Berlin (2003)
 | `conanexiles` | Conan Exiles (2018)
+| `contagion` | Contagion (2011)
 | `contactjack` | Contract J.A.C.K. (2003)
 | `cs15`     | Counter-Strike 1.5 (2002)
 | `cs16`     | Counter-Strike 1.6 (2003)
@@ -148,6 +150,7 @@ Games List
 | `dod`      | Day of Defeat (2003)
 | `dods`     | Day of Defeat: Source (2005)
 | `doi`      | Day of Infamy (2017)
+| `daysofwar` | Days of War (2017)
 | `dayz`     | DayZ (2018)
 | `dayzmod`  | DayZ Mod (2013)
 | `deadlydozenpt` | Deadly Dozen: Pacific Theater (2002)
@@ -160,6 +163,7 @@ Games List
 | `doom3`    | Doom 3 (2004)
 | `dota2`    | Dota 2 (2013)
 | `drakan`   | Drakan: Order of the Flame (1999)
+| `empyrion` | Empyrion - Galactic Survival (2015)
 | `etqw`     | Enemy Territory: Quake Wars (2007)
 | `fear`     | F.E.A.R. (2005)
 | `f1c9902`  | F1 Challenge '99-'02 (2002)
@@ -197,6 +201,7 @@ Games List
 | `ironstorm` | Iron Storm (2002)
 | `jamesbondnightfire` | James Bond 007: Nightfire (2002)
 | `jc2mp`    | Just Cause 2 - Multiplayer (2010)
+| `jc3mp`    | Just Cause 3 - Multiplayer (2017)
 | `kspdmp`   | Kerbal Space Program - DMP Multiplayer (2015)
 | `killingfloor` | Killing Floor (2009)
 | `killingfloor2` | Killing Floor 2 (2016)
@@ -218,6 +223,7 @@ Games List
 | `minecraft`<br>`minecraftping` | Minecraft (2009)
 | `minecraftpe`<br>`minecraftbe` | Minecraft: Bedrock Edition (2011)
 | `mnc`      | Monday Night Combat (2011)
+| `mordhau`      | Mordhau (2019)
 | `mumble`   | Mumble - GTmurmur Plugin (2005) | [Notes](#mumble)
 | `mumbleping` | Mumble - Lightweight (2005) | [Notes](#mumble)
 | `nascarthunder2004` | NASCAR Thunder 2004 (2003)
@@ -238,13 +244,16 @@ Games List
 | `operationflashpoint`<br>`flashpoint` | Operation Flashpoint: Cold War Crisis (2001)
 | `flashpointresistance` | Operation Flashpoint: Resistance (2002)
 | `painkiller` | Painkiller
+| `pixark`   | PixARK (2018)
 | `postal2`  | Postal 2
 | `prey`     | Prey
 | `primalcarnage` | Primal Carnage: Extinction
-| `quake1`   | Quake 1: QuakeWorld
-| `quake2`   | Quake 2
-| `quake3`   | Quake 3: Arena
-| `quake4`   | Quake 4
+| `prbf2`    | Project Reality: Battlefield 2 (2005)
+| `quake1`   | Quake 1: QuakeWorld (1996)
+| `quake2`   | Quake 2 (1997)
+| `quake3`   | Quake 3: Arena (1999)
+| `quake4`   | Quake 4 (2005)
+| `quakelive` | Quake Live (2010)
 | `ragdollkungfu` | Rag Doll Kung Fu
 | `r6`       | Rainbow Six
 | `r6roguespear` | Rainbow Six 2: Rogue Spear
@@ -275,13 +284,14 @@ Games List
 | `sof`      | Soldier of Fortune
 | `sof2`     | Soldier of Fortune 2
 | `spaceengineers` | Space Engineers
+| `squad`    | Squad
 | `stbc`     | Star Trek: Bridge Commander
 | `stvef`    | Star Trek: Voyager - Elite Force
 | `stvef2`   | Star Trek: Voyager - Elite Force 2
+| `swjk2`    | Star Wars Jedi Knight II: Jedi Outcast (2002)
+| `swjk`     | Star Wars Jedi Knight: Jedi Academy (2003)
 | `swbf`     | Star Wars: Battlefront
 | `swbf2`    | Star Wars: Battlefront 2
-| `swjk`     | Star Wars: Jedi Knight
-| `swjk2`    | Star Wars: Jedi Knight 2
 | `swrc`     | Star Wars: Republic Commando
 | `starbound` | Starbound
 | `starmade` | StarMade
@@ -299,6 +309,7 @@ Games List
 | `teamspeak3` | Teamspeak 3 | [Notes](#teamspeak3)
 | `terminus` | Terminus
 | `terraria`<br>`tshock` | Terraria - TShock (2011) | [Notes](#terraria)
+| `forrest`  | The Forrest (2014)
 | `hidden`   | The Hidden (2005)
 | `nolf`     | The Operative: No One Lives Forever (2000)
 | `ship`     | The Ship
@@ -355,24 +366,20 @@ Games List
 * DirtyBomb
 * Doom - Skulltag
 * Doom - ZDaemon
-* ECO Global Survival
-* Empyrion - Galactic Survival
+* ECO Global Survival ([Ref](https://github.com/Austinb/GameQ/blob/v3/src/GameQ/Protocols/Eco.php))
 * Farming Simulator
 * Freelancer
 * Ghost Recon
 * GRAV Online
-* GTA Network
+* GTA Network ([Ref](https://github.com/Austinb/GameQ/blob/v3/src/GameQ/Protocols/Gtan.php))
 * GTR 2
 * Haze
 * Hexen World
-* Just Cause 3 Multiplayer
 * Lost Heaven
 * Multi Theft Auto
 * Pariah
 * Plain Sight
-* Project Reality: Battlefield 2
 * Purge Jihad
-* Quake Live
 * Red Eclipse
 * Red Faction
 * S.T.A.L.K.E.R. Clear Sky
@@ -380,13 +387,11 @@ Games List
 * Savage 2: A Tortured Soul
 * SiN 1 Multiplayer
 * South Park
-* Squad
 * Star Wars Jedi Knight: Dark Forces II
 * Star Wars: X-Wing Alliance
 * Sum of All Fears
 * Teeworlds
-* The Forrest
-* Tibia
+* Tibia ([Ref](https://github.com/Austinb/GameQ/blob/v3/src/GameQ/Protocols/Tibia.php))
 * Titanfall
 * Tribes 2
 * Unreal 2 XMP
@@ -467,6 +472,36 @@ as well: `--debug`, `--pretty`, `--socketTimeout 5000`, etc.
 
 Changelog
 ---
+
+### 2.0.20
+* Fixed minecraft protocol never throwing exceptions
+
+### 2.0.19
+* Added Days of War (2017)
+* Added The Forrest (2014)
+* Added Just Cause 3 Multiplayer (2017)
+* Added Project Reality: Battlefield 2 (2005)
+* Added Quake Live (2010)
+* Added Contagion (2011)
+* Added Empyrion: Galactic Survival (2015)
+* Added PixARK (2018)
+
+### 2.0.16, 2.0.17, 2.0.18
+* Various improvements to killing floor / unreal2 protocol
+
+### 2.0.15
+* Added Hell Let Loose
+* Added Rising Storm 2: Vietnam
+* Added Squad
+* Fixed DNS lookup not working in some situations when dns.lookup unexpectedly returns a string
+* Improved minecraft protocol for non-vanilla server implementations (bedrock, waterfall, bungeecord)
+* Updated dependencies
+
+### 2.0.14
+* Node 8 compatibility fixes
+
+### 2.0.13
+* Improved logging
 
 ### 2.0.12
 * Servers are now limited to 10000 players to prevent OOM
